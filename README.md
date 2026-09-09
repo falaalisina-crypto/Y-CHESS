@@ -2,7 +2,7 @@
 
 ### Classic Chess, Reimagined in 3D.
 
-**Y-CHEESS** is a 3D chess game built around a polished visual experience, smooth gameplay, cinematic presentation, and a complete modern chess experience.
+**Y-CHESS** is a 3D chess game built around a polished visual experience, smooth gameplay, cinematic presentation, and a complete modern chess experience.
 
 > **Current Release — `0.1.1 Beta`**
 

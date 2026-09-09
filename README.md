@@ -1,4 +1,4 @@
-# ♟️ Y-CHEESS
+# ♟️ Y-CHESS
 
 ### Classic Chess, Reimagined in 3D.
 
@@ -31,7 +31,7 @@ Y-CHEESS brings classic chess into a fully 3D environment, combining traditional
 
 ## 🧪 Beta
 
-### Y-CHEESS `0.1.1 Beta`
+### Y-CHESS `0.1.1 Beta`
 
 This is the first public Beta release of Y-CHEESS.
 
@@ -57,13 +57,13 @@ Simply download the release, extract the archive, and launch the game.
 
 ## 📦 Download
 
-### Y-CHEESS 0.1.1 Beta
+### Y-CHESS 0.1.1 Beta
 
 Download the latest portable Windows build from the **Releases** section of this repository.
 
 **Release:** `v0.1.1-beta`
 
-**Package:** `Y-CHEESS-Beta-Portable-Web-0.1.1.zip`
+**Package:** `Y-CHESS-Beta-Portable-Web-0.1.1.zip`
 
 **Size:** ~57.85 MB
 
@@ -79,7 +79,7 @@ You can use the SHA-256 checksum to verify the integrity of the downloaded relea
 
 ## 🎨 Third-Party Assets
 
-Y-CHEESS includes 3D chess piece models derived from the following third-party project:
+Y-CHESS includes 3D chess piece models derived from the following third-party project:
 
 **3D-Chess-Game**
 https://github.com/mrabhin03/3D-Chess-Game
@@ -94,7 +94,7 @@ This attribution applies only to the identified third-party components and does 
 
 ## 🛡️ Release Integrity
 
-Y-CHEESS releases include integrity and tamper-detection mechanisms designed to help ensure that distributed builds have not been improperly modified.
+Y-CHESS releases include integrity and tamper-detection mechanisms designed to help ensure that distributed builds have not been improperly modified.
 
 For the official Beta build, use the SHA-256 checksum published with the release to verify the downloaded archive.
 
@@ -104,7 +104,7 @@ For the official Beta build, use the SHA-256 checksum published with the release
 
 |                  |               |
 | ---------------- | ------------- |
-| **Game**         | Y-CHEESS      |
+| **Game**         | Y-CHESS      |
 | **Version**      | 0.1.1 Beta    |
 | **Release Tag**  | `v0.1.1-beta` |
 | **Platform**     | Windows       |
@@ -125,7 +125,7 @@ Feedback is welcome during the Beta period and will help shape future versions o
 
 <p align="center">
 
-**Y-CHEESS**
+**Y-CHESS**
 
 *Classic Chess, Reimagined in 3D.*
 
